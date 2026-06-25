@@ -73,4 +73,4 @@ Berdasarkan praktikum yang telah dilakukan , dapat disimpulkan bagaimana proses 
 
 Selain itu, jika halaman HTML memiliki objek yang disematkan (embedded objects) seperti gambar, browser akan mengirimkan beberapa request tambahan untuk mengambil setiap objek tersebut secara terpisah. Pada file HTML berukuran besar juga terlihat bahwa data dapat dikirim dalam beberapa segmen TCP karena ukuran file melebihi kapasitas satu paket.
 
-Selain itu, menunjukkan jika situs yang menggunakan HTTP informasi sensitif seperti username dan password dapat terlihat pada paket yang ditangkap menggunakan Wireshark karena data dikirim dalam bentuk plain text. Hal ini menunjukkan bahwa HTTP memiliki risiko keamanan yang cukup tinggi.
+Selain itu, menunjukkan jika situs yang menggunakan HTTP informasi sensitif seperti username dan password dapat terlihat pada paket yang ditangkap menggunakan Wireshark karena data dikirim dalam bentuk plain text. Hal ini menunjukkan bahwa HTTP memiliki risiko keamanan yang cukup lumayan tinggi.
